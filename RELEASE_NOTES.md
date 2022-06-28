@@ -4,3 +4,7 @@
 
 * added stub telegram bot
 * added Spring Boot skeleton to the project
+
+## 0.2.0-SNAPSHOT
+
+* added unit tests for commands(start, stop,no,unknown, help)
