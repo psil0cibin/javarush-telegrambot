@@ -2,7 +2,7 @@
 
 ## 0.3.0-SNAPSHOT
 
-* 
+* added docker to the project
 
 ## 0.2.0-SNAPSHOT
 
